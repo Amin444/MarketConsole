@@ -8,3 +8,16 @@
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.exe
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.deps.json
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.json
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.dev.json
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.dll
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.pdb
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csprojAssemblyReference.cache
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csproj.CoreCompileInputs.cache
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfoInputs.cache
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfo.cs
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.dll
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.pdb
+D:\programming\Projects AlifC#\Alif\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.genruntimeconfig.cache

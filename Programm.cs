@@ -49,11 +49,28 @@ namespace lesson3
                         System.Console.Write("Вы хотите продолжить? д/н:");
                         if (Console.ReadLine().ToLower() == "д") goto start;
                         else goto End;
+                    } 
+                    case 2:
+                    {
+                                if(userBalance-7>=0)
+                                {
+                                  basket+="Сникерс";
+                                  userBalance-=7;
+                                }
+                                    else
+                                    {
+                                        System.Console.WriteLine(erroBalanceMessage);
+                                        goto End;
+                                    }
+                                        System.Console.Write("Вы хотите продолжить? д/н:");
+                                            if (Console.ReadLine().ToLower() == "д") goto start;
+                                           else goto End;
                     }
-                    break;
+                   
                 case 6: goto End;
+
                 default: goto start;
-                break;
+                
             }
 
         End:
